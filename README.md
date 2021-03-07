@@ -13,7 +13,7 @@
 | Ethernet | RTL8111 1GbE |
 | OS Disk (Nvme/Sata3) | Samsung 970 EVO+ 500GB | Samsung 860 EVO 250GB |
 
-**macOS version**: Bigsur 11.2 (Can be use for 10.15.x also)  
+**macOS version**: Big Sur 11.2 (Can be use for Catalina 10.15.x also)  
 
 **OpenCore version**: 0.6.2  
 
