@@ -44,14 +44,6 @@
 
 		`ifconfig en0 media 1000baseT`
 
-	![](ethernet.png)
-
-- Audio
-- DRM 
-- USB
-- Etc.
-
-
 ## Not working
  - Mic > [See Details] (https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#no-mic-on-amd) (Can be used USB Mics)
  - Hypervisor.framework (VirtualBox and XCode iOS emulator works)
@@ -60,7 +52,7 @@
 ## How to use
   1. Create directory "EFI" in your EFI partition (e.g. pendrive or hard drive)
   2. Clone this repo and paste directiories "BOOT" and "OC" onto created directory
-  3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select **Generate SMBIOS**, as model select **iMacPro1,1**.
+  3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select **Generate SMBIOS**, as model select **iMacPro7,1**.
   4. Open config.plist with [**ProperTree**](https://github.com/corpnewt/ProperTree) and go to PlatformInfo > Generic. Set MLB (Board Serial), SystemSerialNumber (Serial) and SystemUUID (SmUUID) to generated values.
   5. Boot it!  
 
