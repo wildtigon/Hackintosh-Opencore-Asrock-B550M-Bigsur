@@ -17,7 +17,7 @@
 
 **OpenCore version**: 0.6.2  
 
-**SMBIOS**:  iMacPro1,1
+**SMBIOS**:  iMacPro7,1
 
 ## Drivers & Kexts
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
@@ -33,7 +33,7 @@
  - [[Kext] LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
  - [[Kext] AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor)
  - [[Kext] SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
- - [Kext] USBPorts
+ - [[Kext] USBPorts](https://dortania.github.io/OpenCore-Post-Install/usb/manual/manual.html#usb-mapping-the-manual-way)
 
 ## Working
 - **Sleep/Wake**
