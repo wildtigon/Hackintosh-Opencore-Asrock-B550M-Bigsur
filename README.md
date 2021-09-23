@@ -1,4 +1,4 @@
-# AMD Ryzen Hackintosh - Opencore EFI for Asrock B550 series
+# AMD Ryzen Hackintosh - Opencore EFI for Asrock B550 / Gigabyte AOURUS ELITE V2 B550 series
 
 
 ## Specification
